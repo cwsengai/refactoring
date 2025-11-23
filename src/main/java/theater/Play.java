@@ -12,9 +12,11 @@ public class Play {
         this.name = name;
         this.type = type;
     }
+
     public final String getName() {
         return name;
     }
+
     public final String getType() {
         return type;
     }

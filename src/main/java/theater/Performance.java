@@ -16,6 +16,7 @@ public class Performance {
     public final String getPlayID() {
         return playID;
     }
+
     public final int getAudience() {
         return audience;
     }
